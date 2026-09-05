@@ -76,3 +76,5 @@ The application provides:
 * Nutrition goal tracking
 * Multiple meal comparison
 * Improved nutritional database integration
+
+## Live Demo: (https://ai-calories-advisor.streamlit.app/)
